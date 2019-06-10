@@ -64,7 +64,7 @@ console.log(obj1.id);
 // Keven's email
 console.log(obj3.email);
 // Gannie's name
-console.log(obj4.name);
+console.log(obj4.firstName);
 // Antonietta's Gender
 console.log(obj5.gender);
 
