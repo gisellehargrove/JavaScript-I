@@ -5,7 +5,7 @@
 // };
 // myFunction();
 
-let myFunction = ()=> {
+let myFunction = () => {
   console.log("Function was invoked!");
 };
 myFunction();
